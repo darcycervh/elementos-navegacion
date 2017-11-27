@@ -1,6 +1,6 @@
-# Proyecto 2: Identificar los elementos de navegación.
+# Proyecto 2: Identificar los elementos de navegación
 
-### Descripción del Proyecto:
+## Descripción del Proyecto
 
 Identificar los elementos de navegación de las siguientes páginas web:
 
@@ -8,6 +8,6 @@ Identificar los elementos de navegación de las siguientes páginas web:
 * Github.
 * Medium.
 
-**Aplicando lo aprendido**
+## Aplicando lo aprendido
 
 Los trabajos están organizados en carpetas con el nombre de la página web correspondiente.

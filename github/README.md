@@ -1,4 +1,4 @@
-# Proyecto 2: Identificar los elementos de navegación de la página Github.
+# Proyecto 2: Identificar los elementos de navegación de la página Github
 
 ![imagen1](../assets/images/github/imagen1.png)
 

@@ -1,4 +1,4 @@
-# Proyecto 2: Identificar los elementos de navegación de la página Breather.
+# Proyecto 2: Identificar los elementos de navegación de la página Breather
 
 ![imagen1](../assets/images/breather/Imagen1.png)
 
